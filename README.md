@@ -8,3 +8,11 @@
 - 📫 How to reach me: curran@vizhub.com, or [schedule an intro call now!](https://calendly.com/curran-kelleher/casual)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar, speak German, lived in India for 5 years, I'm into meditation, and I'm a vegan bodybuilder
+
+### Testimonials
+
+Here are some things folks have to say about me:
+
+> Curran Kelleher has taught graduate level courses in data visualization.  He can produce great work and teach others to do so too!
+
+-- [Mike Ahern, Director, Academic & Corporate Engagement + Adjunct Instructor, Worcester Polytechnic Institute](https://www.linkedin.com/in/michael-ahern-85951a56/)
