@@ -9,30 +9,35 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar, speak German, lived in India for 5 years, I'm into meditation, and I'm a vegan bodybuilder
 
-### Notable Projects
+## Notable Projects
 
 Unfortunately much of my work is bound by client confidentiality, but here are some public projects I can share! 
 
-![image](https://github.com/curran/curran/assets/68416/8bb6f5d1-7f51-46d0-ae5e-cc8d12a924a7)
-
-Here's some of my work in VizHub, a dataviz platform I started in 2018 to help teach courses
+### VizHub
 
 https://vizhub.com/curran
+
+![image](https://github.com/curran/curran/assets/68416/8bb6f5d1-7f51-46d0-ae5e-cc8d12a924a7)
+
+Here's some of my work in VizHub, a dataviz platform I started in 2018 to help teach courses and continue to maintain and grow as a SaaS business.
+
+### UNHCR Streamgraph Explorer
+
+https://github.com/unhcr/dataviz-streamgraph-explorer
 
 ![image](https://github.com/curran/curran/assets/68416/c190ceb5-979d-4522-9232-c2ad108a98eb)
 
 Here's an open source piece I did for UNHCR visualizing refugees over time.
 
-https://github.com/unhcr/dataviz-streamgraph-explorer
-
-I worked on this awesome Sankey visualization with the amazing team at 
-[@stamen](https://x.com/stamen)
- back in 2018
+### Max Planck Superdiversity
 
 https://stamen.com/work/superdiversity/
 
 ![image](https://github.com/curran/curran/assets/68416/283e9025-d18f-4c9b-80bf-3b6e054dadd2)
 
+I worked on this awesome Sankey visualization with the amazing team at 
+[@stamen](https://x.com/stamen)
+ back in 2018, as part of a larger academic research project on visualizing "superdiversity" in select cities.
 
 ### Testimonials
 
