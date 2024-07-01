@@ -1,6 +1,6 @@
 ## Hi, I'm Curran 👋
 
-- 🔭 I’m currently working on [VizHub](https://vizhub.com/) (a data visualization platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (a data visualization course), and various client projects
+- 🔭 I’m currently working on [VizHub](https://vizhub.com/) (dataviz platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (dataviz course), and [client projects](https://x.com/currankelleher/status/1777763309107712003)
 - 🌱 I’m currently learning about SaaS business and researching the needs of the data visualization market
 - 👯 I’m looking to collaborate on [VZCode](https://github.com/vizhub-core/vzcode) (VizHub's open source collaborative code editing environment) and client projects
 - 🤔 I’m looking for help with finding new clients
