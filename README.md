@@ -39,7 +39,15 @@ I worked on this awesome Sankey visualization with the amazing team at
 [@stamen](https://x.com/stamen)
  back in 2018, as part of a larger academic research project on visualizing "superdiversity" in select cities.
 
-### Testimonials
+### Facebook COVID-19 Mobility Dashboard
+
+https://stamen.com/work/facebook-covid-19-mobility/
+
+![image](https://github.com/curran/curran/assets/68416/6b7ea54e-ac85-4813-8f86-a73398af6815)
+
+I also got to work on this epic Covid-19 Mobility Dashboard within an amazing team at Stamen. There are some really neat interactions in here - drill down, linked highlighting on hover, breadcrumbs, and more!
+
+## Testimonials
 
 Here are some things folks have to say about me:
 
