@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with finding new clients
 - 💬 Ask me about dataviz, frontend, JavaScript
 - 📫 How to reach me: curran@vizhub.com, or [schedule an intro call now!](https://calendly.com/curran-kelleher/casual)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar, speak German, lived in India for 5 years, I'm into meditation, and I'm a vegan bodybuilder
 
 ## Notable Projects
@@ -70,6 +69,14 @@ https://hopeunderwater.com/
 ![image](https://github.com/curran/curran/assets/68416/a1ac505c-0599-4874-8177-e95bef0ea79b)
 
 I worked on this project with the great folks at [Room 302 Studio](https://room302.studio/) to develop this globe-based visualization of coral reefs for the [Wildlife Conservation Society](https://www.wcs.org/).
+
+### Kendeda Virtual Garden
+
+https://virtualgarden.kendedafund.org/
+
+![image](https://github.com/curran/curran/assets/68416/2e7a19a7-35ec-4906-a045-8ec9ebf49a25)
+
+I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to visualize grant disbursements of the [Kendeda Fund](https://kendedafund.org/) using a playful and creative visual metaphor of plants.
 
 ## Testimonials
 
