@@ -47,6 +47,15 @@ https://stamen.com/work/facebook-covid-19-mobility/
 
 I also got to work on this epic Covid-19 Mobility Dashboard within an amazing team at Stamen. There are some really neat interactions in here - drill down, linked highlighting on hover, breadcrumbs, and more!
 
+###
+
+https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
+
+![image](https://github.com/curran/curran/assets/68416/c182f9a9-786b-4495-919d-171ff7ea3b4f)
+
+During my time at McKinsey I got to collaborate with an amazing team on this fairly novel visualization of Bipartisan Infrastructure Law.
+
+
 ## Testimonials
 
 Here are some things folks have to say about me:
