@@ -47,7 +47,7 @@ https://stamen.com/work/facebook-covid-19-mobility/
 
 I also got to work on this epic Covid-19 Mobility Dashboard within an amazing team at Stamen. There are some really neat interactions in here - drill down, linked highlighting on hover, breadcrumbs, and more!
 
-###
+### Bipartisan Infrastructure Law Navigator
 
 https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
 
@@ -55,6 +55,13 @@ https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
 
 During my time at McKinsey I got to collaborate with an amazing team on this fairly novel visualization of Bipartisan Infrastructure Law.
 
+### Supplier Diversity
+
+https://www.mckinsey.com/capabilities/operations/our-insights/expand-diversity-among-your-suppliers-and-add-value-to-your-organization
+
+![image](https://github.com/curran/curran/assets/68416/12572239-87e4-4c7b-afff-5c2e9d49ee11)
+
+I also had the opportunity to work on this visualization of supplier diversity, which has some fun multidimensional filtering.
 
 ## Testimonials
 
