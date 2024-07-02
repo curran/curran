@@ -63,6 +63,14 @@ https://www.mckinsey.com/capabilities/operations/our-insights/expand-diversity-a
 
 I also had the opportunity to work on this visualization of supplier diversity, which has some fun multidimensional filtering.
 
+### Hope Underwater
+
+https://hopeunderwater.com/
+
+![image](https://github.com/curran/curran/assets/68416/a1ac505c-0599-4874-8177-e95bef0ea79b)
+
+I worked on this project with the great folks at [Room 302 Studio](https://room302.studio/) to develop this globe-based visualization of coral reefs for the [Wildlife Conservation Society](https://www.wcs.org/).
+
 ## Testimonials
 
 Here are some things folks have to say about me:
