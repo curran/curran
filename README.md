@@ -84,19 +84,43 @@ I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to
 
 Here are some things folks have to say about me:
 
-> Curran has a wonderful, enthusiastic, optimistic and dedicated approach to everything he does which is infectious. He is incredibly knowledgable - probably underplaying his capabilities - in all things based around front end dataviz development. Always keen to experiment and explore new ways of working with the wider team creating an inclusive and collaborative environment which is sometimes lacking from wider project / product teams.
+---
+
+<!-- ![Andy Davies](https://via.placeholder.com/150) -->
+**Andy Davies**  
+*Design Principal, The London Stock Exchange*  
+[LinkedIn](https://www.linkedin.com/in/adsevenfour/)
+
+> "Curran has a wonderful, enthusiastic, optimistic and dedicated approach to everything he does which is infectious. He is incredibly knowledgable - probably underplaying his capabilities - in all things based around front end dataviz development. Always keen to experiment and explore new ways of working with the wider team creating an inclusive and collaborative environment which is sometimes lacking from wider project / product teams.
 >
 > Curran is also one of the best teachers I have had in terms of explaining front end complexity. He has a natural ability to match your level of knowledge and then work with you to understand the nuances that just make something click. I learnt I lot in our time together, even recording training sessions where I could ask questions, not really understand, but play back later.
 > 
 > It was honestly a pleasure to work with him and I can't recommend him highly enough. I'll also add my total collaboration was remote and in different timezones, making this doubly impressive. On the occasion we did meet, it was like meeting an old friend.
-> Just hire him / work with him / get on a call with him, you'll see.
-> — [Andy Davies, Design Principal, The London Stock Exchange](https://www.linkedin.com/in/adsevenfour/)
+> Just hire him / work with him / get on a call with him, you'll see."
 
-> Curran Kelleher has taught graduate level courses in data visualization.  He can produce great work and teach others to do so too!
-> — [Mike Ahern, Director, Academic & Corporate Engagement + Adjunct Instructor, Worcester Polytechnic Institute](https://www.linkedin.com/in/michael-ahern-85951a56/)
+---
 
-> Curran quickly understood my complex codebase, and was able to fix many of my visualization's bugs that I couldn't find solutions for online. Additionally, he gave specific, best-practice advice to improve the load time, UI responsiveness, and maintainability of my D3 implementation. Curran was great to work with and I would 100% recommend him to anyone stuck with D3 bugs, or looking to refactor their code to follow best practices.
-> — [Louis Parizeau, Co-Founder, Highgate Analytics](https://www.linkedin.com/in/louis-parizeau-6b0510156/)
+<!-- ![Mike Ahern](https://via.placeholder.com/150) -->
+**Mike Ahern**  
+*Director, Academic & Corporate Engagement + Adjunct Instructor, Worcester Polytechnic Institute*  
+[LinkedIn](https://www.linkedin.com/in/michael-ahern-85951a56/)
 
-> Curran is experienced, creative, humorous and very knowledgeable. We needed to jumpstart our development of the manipulation of data visualization and he was one of three experts we could find globally. Tired of iterations and delays flew up to sit with him. He was initially incredulous of having a new client look over his shoulder for a week but true to character he was open minded. Strangers became colleagues and became fast friends, the week flew by and not only was the work product fantastic so was his openness and willingness to empower our tech team.
-> — [Lucio Biase, Founder, Thunnus Tech](https://www.linkedin.com/in/lucio-biase/)
+> "Curran Kelleher has taught graduate level courses in data visualization. He can produce great work and teach others to do so too!"
+
+---
+
+<!-- ![Louis Parizeau](https://via.placeholder.com/150) -->
+**Louis Parizeau**  
+*Co-Founder, Highgate Analytics*  
+[LinkedIn](https://www.linkedin.com/in/louis-parizeau-6b0510156/)
+
+> "Curran quickly understood my complex codebase, and was able to fix many of my visualization's bugs that I couldn't find solutions for online. Additionally, he gave specific, best-practice advice to improve the load time, UI responsiveness, and maintainability of my D3 implementation. Curran was great to work with and I would 100% recommend him to anyone stuck with D3 bugs, or looking to refactor their code to follow best practices."
+
+---
+
+<!-- ![Lucio Biase](https://via.placeholder.com/150) -->
+**Lucio Biase**  
+*Founder, Thunnus Tech*  
+[LinkedIn](https://www.linkedin.com/in/lucio-biase/)
+
+> "Curran is experienced, creative, humorous and very knowledgeable. We needed to jumpstart our development of the manipulation of data visualization and he was one of three experts we could find globally. Tired of iterations and delays flew up to sit with him. He was initially incredulous of having a new client look over his shoulder for a week but true to character he was open minded. Strangers became colleagues and became fast friends, the week flew by and not only was the work product fantastic so was his openness and willingness to empower our tech team."
