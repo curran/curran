@@ -89,3 +89,6 @@ Here are some things folks have to say about me:
 
 > Curran quickly understood my complex codebase, and was able to fix many of my visualization's bugs that I couldn't find solutions for online. Additionally, he gave specific, best-practice advice to improve the load time, UI responsiveness, and maintainability of my D3 implementation. Curran was great to work with and I would 100% recommend him to anyone stuck with D3 bugs, or looking to refactor their code to follow best practices.
 > — [Louis Parizeau, Co-Founder, Highgate Analytics](https://www.linkedin.com/in/louis-parizeau-6b0510156/)
+
+> Curran is experienced, creative, humorous and very knowledgeable. We needed to jumpstart our development of the manipulation of data visualization and he was one of three experts we could find globally. Tired of iterations and delays flew up to sit with him. He was initially incredulous of having a new client look over his shoulder for a week but true to character he was open minded. Strangers became colleagues and became fast friends, the week flew by and not only was the work product fantastic so was his openness and willingness to empower our tech team.
+> — [Lucio Biase, Founder, Thunnus Tech](https://www.linkedin.com/in/lucio-biase/)
