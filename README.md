@@ -1,6 +1,6 @@
 ##  Hi, I'm Curran 👋
 
-[X](https://x.com/currankelleher) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran)
+[Resume](https://curran.github.io/portfolio/Resume.pdf) | [X](https://x.com/currankelleher) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran)
 
 - 🔭 I’m currently working on [VizHub](https://vizhub.com/) (dataviz platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (dataviz course), and [client projects](https://x.com/currankelleher/status/1777763309107712003)
 - 🌱 I’m currently learning about SaaS business and researching the needs of the data visualization market
