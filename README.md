@@ -84,6 +84,14 @@ I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to
 
 Here are some things folks have to say about me:
 
+> Curran has a wonderful, enthusiastic, optimistic and dedicated approach to everything he does which is infectious. He is incredibly knowledgable - probably underplaying his capabilities - in all things based around front end dataviz development. Always keen to experiment and explore new ways of working with the wider team creating an inclusive and collaborative environment which is sometimes lacking from wider project / product teams.
+>
+> Curran is also one of the best teachers I have had in terms of explaining front end complexity. He has a natural ability to match your level of knowledge and then work with you to understand the nuances that just make something click. I learnt I lot in our time together, even recording training sessions where I could ask questions, not really understand, but play back later.
+> 
+> It was honestly a pleasure to work with him and I can't recommend him highly enough. I'll also add my total collaboration was remote and in different timezones, making this doubly impressive. On the occasion we did meet, it was like meeting an old friend.
+> Just hire him / work with him / get on a call with him, you'll see.
+> — [Andy Davies, Design Principal, The London Stock Exchange](https://www.linkedin.com/in/adsevenfour/)
+
 > Curran Kelleher has taught graduate level courses in data visualization.  He can produce great work and teach others to do so too!
 > — [Mike Ahern, Director, Academic & Corporate Engagement + Adjunct Instructor, Worcester Polytechnic Institute](https://www.linkedin.com/in/michael-ahern-85951a56/)
 
