@@ -12,7 +12,13 @@
 
 ## Notable Projects
 
-Unfortunately much of my work is bound by client confidentiality, but here are some public projects I can share! 
+Unfortunately much of my work is bound by client confidentiality, but here are some public projects I can share!
+
+### Free Courses
+
+ * [Constructing Visualizations 2024](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) The latest version of my course, using D3 and Vanilla JavaScript.
+ * [Data Visualization with D3 – Full Course for Beginners 2022](https://www.youtube.com/watch?v=xkBheRZTkaw) - 19.5 hours of lecture videos released via FreeCodeCamp, based on my course material for the graduate data visualization course I teach at Worcester Polytechnic Institute.
+ * [Data Visualization with D3.js - Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E) - 13 hours of course material from my 2018 course. See also [Data Visualization Course 2018](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 
 ### VizHub and VZCode
 
