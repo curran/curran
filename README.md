@@ -14,13 +14,19 @@
 
 Unfortunately much of my work is bound by client confidentiality, but here are some public projects I can share! 
 
-### VizHub
+### VizHub and VZCode
 
 https://vizhub.com/curran
 
 ![image](https://github.com/curran/curran/assets/68416/8bb6f5d1-7f51-46d0-ae5e-cc8d12a924a7)
 
-Here's some of my work in VizHub, a dataviz platform I started in 2018 to help teach courses and continue to maintain and grow as a SaaS business.
+Here's some of my work in VizHub, a dataviz platform I started in 2018 to help teach courses and continue to maintain and grow as a SaaS business for professionals. The code editor in VizHub is the open source project [VZCode](https://github.com/vizhub-core/vzcode).
+
+Here are some videos about VizHub:
+
+ * [Introduction to VizHub](https://www.youtube.com/watch?v=mOe5KL7t6VU&t=2s)
+ * [VizHub as Dataviz CMS](https://www.youtube.com/watch?v=mYTjcbfkdvk)
+ * [Using Packages in VizHub](https://www.youtube.com/watch?v=eKk2fEmRR_s)
 
 ### UNHCR Streamgraph Explorer
 
