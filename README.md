@@ -34,13 +34,45 @@ Here are some videos about VizHub:
  * [VizHub as Dataviz CMS](https://www.youtube.com/watch?v=mYTjcbfkdvk)
  * [Using Packages in VizHub](https://www.youtube.com/watch?v=eKk2fEmRR_s)
 
-### UNHCR Streamgraph Explorer
+### Kendeda Virtual Garden
 
-https://github.com/unhcr/dataviz-streamgraph-explorer
+https://virtualgarden.kendedafund.org/
 
-![image](https://github.com/curran/curran/assets/68416/c190ceb5-979d-4522-9232-c2ad108a98eb)
+![image](https://github.com/curran/curran/assets/68416/2e7a19a7-35ec-4906-a045-8ec9ebf49a25)
 
-Here's an open source piece I did for UNHCR visualizing refugees over time.
+I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to visualize grant disbursements of the [Kendeda Fund](https://kendedafund.org/) using a playful and creative visual metaphor of plants.
+
+### Hope Underwater
+
+https://hopeunderwater.com/
+
+![image](https://github.com/curran/curran/assets/68416/a1ac505c-0599-4874-8177-e95bef0ea79b)
+
+I worked on this project with the great folks at [Room 302 Studio](https://room302.studio/) to develop this globe-based visualization of coral reefs for the [Wildlife Conservation Society](https://www.wcs.org/).
+
+### Supplier Diversity
+
+https://www.mckinsey.com/capabilities/operations/our-insights/expand-diversity-among-your-suppliers-and-add-value-to-your-organization
+
+![image](https://github.com/curran/curran/assets/68416/12572239-87e4-4c7b-afff-5c2e9d49ee11)
+
+I also had the opportunity to work on this visualization of supplier diversity, which has some fun multidimensional filtering.
+
+### Bipartisan Infrastructure Law Navigator
+
+https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
+
+![image](https://github.com/curran/curran/assets/68416/c182f9a9-786b-4495-919d-171ff7ea3b4f)
+
+During my time at McKinsey I got to collaborate with an amazing team on this fairly novel visualization of Bipartisan Infrastructure Law.
+
+### Facebook COVID-19 Mobility Dashboard
+
+https://stamen.com/work/facebook-covid-19-mobility/
+
+![image](https://github.com/curran/curran/assets/68416/6b7ea54e-ac85-4813-8f86-a73398af6815)
+
+I also got to work on this epic Covid-19 Mobility Dashboard within an amazing team at Stamen. There are some really neat interactions in here - drill down, linked highlighting on hover, breadcrumbs, and more!
 
 ### Max Planck Superdiversity
 
@@ -52,45 +84,13 @@ I worked on this awesome Sankey visualization with the amazing team at
 [@stamen](https://x.com/stamen)
  back in 2018, as part of a larger academic research project on visualizing "superdiversity" in select cities.
 
-### Facebook COVID-19 Mobility Dashboard
+### UNHCR Streamgraph Explorer
 
-https://stamen.com/work/facebook-covid-19-mobility/
+https://github.com/unhcr/dataviz-streamgraph-explorer
 
-![image](https://github.com/curran/curran/assets/68416/6b7ea54e-ac85-4813-8f86-a73398af6815)
+![image](https://github.com/curran/curran/assets/68416/c190ceb5-979d-4522-9232-c2ad108a98eb)
 
-I also got to work on this epic Covid-19 Mobility Dashboard within an amazing team at Stamen. There are some really neat interactions in here - drill down, linked highlighting on hover, breadcrumbs, and more!
-
-### Bipartisan Infrastructure Law Navigator
-
-https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
-
-![image](https://github.com/curran/curran/assets/68416/c182f9a9-786b-4495-919d-171ff7ea3b4f)
-
-During my time at McKinsey I got to collaborate with an amazing team on this fairly novel visualization of Bipartisan Infrastructure Law.
-
-### Supplier Diversity
-
-https://www.mckinsey.com/capabilities/operations/our-insights/expand-diversity-among-your-suppliers-and-add-value-to-your-organization
-
-![image](https://github.com/curran/curran/assets/68416/12572239-87e4-4c7b-afff-5c2e9d49ee11)
-
-I also had the opportunity to work on this visualization of supplier diversity, which has some fun multidimensional filtering.
-
-### Hope Underwater
-
-https://hopeunderwater.com/
-
-![image](https://github.com/curran/curran/assets/68416/a1ac505c-0599-4874-8177-e95bef0ea79b)
-
-I worked on this project with the great folks at [Room 302 Studio](https://room302.studio/) to develop this globe-based visualization of coral reefs for the [Wildlife Conservation Society](https://www.wcs.org/).
-
-### Kendeda Virtual Garden
-
-https://virtualgarden.kendedafund.org/
-
-![image](https://github.com/curran/curran/assets/68416/2e7a19a7-35ec-4906-a045-8ec9ebf49a25)
-
-I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to visualize grant disbursements of the [Kendeda Fund](https://kendedafund.org/) using a playful and creative visual metaphor of plants.
+Here's an open source piece I did for UNHCR visualizing refugees over time.
 
 ## Testimonials
 
