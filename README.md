@@ -14,13 +14,13 @@
 
 Unfortunately much of my work is bound by client confidentiality, but here are some public projects I can share!
 
-### Free Courses
+### Free Courses (2018 - present)
 
  * [Constructing Visualizations 2024](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) The latest version of my course, using D3 and Vanilla JavaScript.
  * [Data Visualization with D3 – Full Course for Beginners 2022](https://www.youtube.com/watch?v=xkBheRZTkaw) - 19.5 hours of lecture videos released via FreeCodeCamp, based on my course material for the graduate data visualization course I teach at Worcester Polytechnic Institute.
  * [Data Visualization with D3.js - Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E) - 13 hours of course material from my 2018 course. See also [Data Visualization Course 2018](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 
-### VizHub and VZCode
+### VizHub and VZCode (2018 - present)
 
 https://vizhub.com/curran
 
@@ -34,7 +34,7 @@ Here are some videos about VizHub:
  * [VizHub as Dataviz CMS](https://www.youtube.com/watch?v=mYTjcbfkdvk)
  * [Using Packages in VizHub](https://www.youtube.com/watch?v=eKk2fEmRR_s)
 
-### Kendeda Virtual Garden
+### Kendeda Virtual Garden (2023)
 
 https://virtualgarden.kendedafund.org/
 
@@ -42,7 +42,7 @@ https://virtualgarden.kendedafund.org/
 
 I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to visualize grant disbursements of the [Kendeda Fund](https://kendedafund.org/) using a playful and creative visual metaphor of plants.
 
-### Hope Underwater
+### Hope Underwater (2023)
 
 https://hopeunderwater.com/
 
@@ -50,7 +50,7 @@ https://hopeunderwater.com/
 
 I worked on this project with the great folks at [Room 302 Studio](https://room302.studio/) to develop this globe-based visualization of coral reefs for the [Wildlife Conservation Society](https://www.wcs.org/).
 
-### Supplier Diversity
+### Supplier Diversity (2022)
 
 https://www.mckinsey.com/capabilities/operations/our-insights/expand-diversity-among-your-suppliers-and-add-value-to-your-organization
 
@@ -58,7 +58,7 @@ https://www.mckinsey.com/capabilities/operations/our-insights/expand-diversity-a
 
 I also had the opportunity to work on this visualization of supplier diversity, which has some fun multidimensional filtering.
 
-### Bipartisan Infrastructure Law Navigator
+### Bipartisan Infrastructure Law Navigator (2022)
 
 https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
 
@@ -66,7 +66,7 @@ https://www.mckinsey.com/industries/public-sector/our-insights/bil-navigator
 
 During my time at McKinsey I got to collaborate with an amazing team on this fairly novel visualization of Bipartisan Infrastructure Law.
 
-### Facebook COVID-19 Mobility Dashboard
+### Facebook COVID-19 Mobility Dashboard (2020)
 
 https://stamen.com/work/facebook-covid-19-mobility/
 
@@ -74,7 +74,7 @@ https://stamen.com/work/facebook-covid-19-mobility/
 
 I also got to work on this epic Covid-19 Mobility Dashboard within an amazing team at Stamen. There are some really neat interactions in here - drill down, linked highlighting on hover, breadcrumbs, and more!
 
-### Max Planck Superdiversity
+### Max Planck Superdiversity (2018)
 
 https://stamen.com/work/superdiversity/
 
@@ -84,13 +84,21 @@ I worked on this awesome Sankey visualization with the amazing team at
 [@stamen](https://x.com/stamen)
  back in 2018, as part of a larger academic research project on visualizing "superdiversity" in select cities.
 
-### UNHCR Streamgraph Explorer
+### UNHCR Streamgraph Explorer (2017)
 
 https://github.com/unhcr/dataviz-streamgraph-explorer
 
 ![image](https://github.com/curran/curran/assets/68416/c190ceb5-979d-4522-9232-c2ad108a98eb)
 
 Here's an open source piece I did for UNHCR visualizing refugees over time.
+
+### Campaign Finance Institute Law Database (2017)
+
+https://cfinst.github.io/
+
+![image](https://github.com/curran/curran/assets/68416/6158d6f9-69ca-47c4-bf5d-c3705904d92f)
+
+The CFI Law Database visualization shows campaign finance law in the US over time. This was my first consulting project ever, and was a great learning opportunity. This project was done in close collaboration with [Seemant Kuleen](https://seemantk.com/).
 
 ## Testimonials
 
