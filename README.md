@@ -1,4 +1,5 @@
 ##  Hi, I'm Curran 👋
+[book an intro call now!](https://calendly.com/curran-kelleher/casual)
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [X](https://x.com/currankelleher) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran)
 
