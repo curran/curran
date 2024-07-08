@@ -16,8 +16,9 @@ Unfortunately much of my work is bound by client confidentiality, but here are s
 
 ### Free Courses (2018 - present)
 
- * [Constructing Visualizations 2024](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) The latest version of my course, using D3 and Vanilla JavaScript.
- * [Data Visualization with D3 – Full Course for Beginners 2022](https://www.youtube.com/watch?v=xkBheRZTkaw) - 19.5 hours of lecture videos released via FreeCodeCamp, based on my course material for the graduate data visualization course I teach at Worcester Polytechnic Institute.
+ * [Constructing Visualizations (2024)](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) The latest version of my course, using D3 and Vanilla JavaScript.
+ * [Data Visualization with D3 – Full Course for Beginners (2022)](https://www.youtube.com/watch?v=xkBheRZTkaw) - 19.5 hours of lecture videos released via FreeCodeCamp, based on my course material for the graduate data visualization course I teach at Worcester Polytechnic Institute.
+ * [Get it Right in Black & White (2021)](https://vizhub.com/forum/t/get-it-right-in-black-white-index/110) - A livestreamed course covering fundamentals with SVG and D3.
  * [Data Visualization with D3.js - Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E) - 13 hours of course material from my 2018 course. See also [Data Visualization Course 2018](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 
 ### VizHub and VZCode (2018 - present)
