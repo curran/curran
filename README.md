@@ -1,4 +1,7 @@
 ##  Hi, I'm Curran 👋
+
+![image](https://github.com/curran/curran/assets/68416/c97999ce-5e97-4094-aecd-8237f890ad4b)
+
 [book an intro call now!](https://calendly.com/curran-kelleher/casual)
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [X](https://x.com/currankelleher) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran)
