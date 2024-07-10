@@ -1,6 +1,6 @@
 ##  Hi, I'm Curran 👋
 
-![image](https://github.com/curran/curran/assets/68416/c97999ce-5e97-4094-aecd-8237f890ad4b)
+[![image](https://github.com/curran/curran/assets/68416/c97999ce-5e97-4094-aecd-8237f890ad4b)](https://vizhub.com/curran/black-and-white-nested-circles)
 
 [book an intro call now!](https://calendly.com/curran-kelleher/casual)
 
