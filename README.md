@@ -155,5 +155,3 @@ Here are some things folks have to say about me:
 [LinkedIn](https://www.linkedin.com/in/benjamin-brophy/)
 
 > "Curran is a data visualization wizard - just check out his body of work! He taught me everything I know about D3 and data viz."
-```
-
