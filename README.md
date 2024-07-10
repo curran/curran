@@ -146,3 +146,14 @@ Here are some things folks have to say about me:
 [LinkedIn](https://www.linkedin.com/in/lucio-biase/)
 
 > "Curran is experienced, creative, humorous and very knowledgeable. We needed to jumpstart our development of the manipulation of data visualization and he was one of three experts we could find globally. Tired of iterations and delays flew up to sit with him. He was initially incredulous of having a new client look over his shoulder for a week but true to character he was open minded. Strangers became colleagues and became fast friends, the week flew by and not only was the work product fantastic so was his openness and willingness to empower our tech team."
+
+---
+
+<!-- ![Ben Brophy](https://via.placeholder.com/150) -->
+**Ben Brophy**  
+*Web Developer at Ninety | Former HubSpot*  
+[LinkedIn](https://www.linkedin.com/in/benjamin-brophy/)
+
+> "Curran is a data visualization wizard - just check out his body of work! He taught me everything I know about D3 and data viz."
+```
+
