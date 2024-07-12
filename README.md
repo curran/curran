@@ -6,7 +6,7 @@
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [X](https://x.com/currankelleher) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran)
 
-- 🔭 I’m currently working on [VizHub](https://vizhub.com/) (dataviz platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (dataviz course and textbook), and various client services projects
+- 🔭 I’m currently working on [VizHub](https://vizhub.com/) (dataviz platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (dataviz course and textbook), and various client services projects (also wanting to buy a house and need a full time job to do that)
 - 🌱 I’m currently learning about SaaS business and researching the needs of the data visualization market
 - 👯 I’m looking to collaborate on [VZCode](https://github.com/vizhub-core/vzcode) (VizHub's open source collaborative code editing environment) and client projects
 - 🤔 I’m looking for help with finding new clients and/or a great full time role
@@ -108,6 +108,14 @@ The CFI Law Database visualization shows campaign finance law in the US over tim
 ## Testimonials
 
 Here are some things folks have to say about me:
+
+---
+
+**Logan Williams**  
+*Data science lead at Bellingcat*  
+[LinkedIn](https://www.linkedin.com/in/logan-williams-5957b229/)
+
+> "Curran is the most systematic thinker of data visualizations that I have met — his perspective will change the way you think about representing data and give you practical tools for exploring your ideas."
 
 ---
 
