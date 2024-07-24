@@ -14,9 +14,10 @@
 - 📫 How to reach me: curran@vizhub.com, or [schedule an intro call now!](https://calendly.com/curran-kelleher/casual)
 - ⚡ Fun fact: I play guitar, speak German, lived in India for 5 years, I'm into meditation, and I'm a vegan bodybuilder
 
-## Videos
+## Interviews & Podcasts
 
- * [Data Visualization Society chat about D3 with Nadieh Bremer, Zan Armstrong, and Curran Kelleher](https://www.youtube.com/watch?v=ZVT3sCWVPXQ)
+ * [March 3032 / Data Visualization Society Fireside Chat about D3 and Data Visualization with Nadieh Bremer, Zan Armstrong, and Curran Kelleher](https://www.youtube.com/watch?v=ZVT3sCWVPXQ)
+ * [November 2023 / Quincy Larson Podcast: Data Visualization with Dr. Curran Kelleher](https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/)
 
 ## Notable Projects
 
