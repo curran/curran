@@ -46,7 +46,7 @@ Here are some videos about VizHub:
 
 ### Open Source Side Projects (2024)
 
-[Population Density by World Cities](https://vizhub.com/curran/population-density-by-world-cities)
+#### [Population Density by World Cities](https://vizhub.com/curran/population-density-by-world-cities)
 
 [![image](https://github.com/user-attachments/assets/6f289408-439b-44f2-8a54-33494812c2f9)](https://vizhub.com/curran/population-density-by-world-cities)
 
@@ -55,7 +55,16 @@ world, estimated based on populations of large cities.
 Features panning & zooming, and a label placement algorithm
 that uses an R-Tree spatial index to avoid overlaps.
 
+#### [DBPedia Ontology Viz](https://vizhub.com/curran/dbpedia-ontology-viz)
 
+[![image](https://github.com/user-attachments/assets/585513e2-2928-4692-ad63-11fd15e8d49f)](https://vizhub.com/curran/dbpedia-ontology-viz)
+
+A circle pack visualization of a subset of the DBPedia
+ontology, a hierarchical taxonomy of classes that categorize
+Wikipedia articles. Features panning and zooming, color
+pased on depth, and gradients that make the circles look
+like 3D spheres. Clicking on a circle will take you to a
+list of all Wikipedia articles about the topic.
 
 
 ### Kendeda Virtual Garden (2023)
