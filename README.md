@@ -44,6 +44,20 @@ Here are some videos about VizHub:
  * [VizHub as Dataviz CMS](https://www.youtube.com/watch?v=mYTjcbfkdvk)
  * [Using Packages in VizHub](https://www.youtube.com/watch?v=eKk2fEmRR_s)
 
+### Open Source Side Projects (2024)
+
+[Population Density by World Cities](https://vizhub.com/curran/population-density-by-world-cities)
+
+[![image](https://github.com/user-attachments/assets/6f289408-439b-44f2-8a54-33494812c2f9)](https://vizhub.com/curran/population-density-by-world-cities)
+
+A contour map visualization of population density across the
+world, estimated based on populations of large cities.
+Features panning & zooming, and a label placement algorithm
+that uses an R-Tree spatial index to avoid overlaps.
+
+
+
+
 ### Kendeda Virtual Garden (2023)
 
 https://virtualgarden.kendedafund.org/
