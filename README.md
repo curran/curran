@@ -1,7 +1,5 @@
 ##  Hi, I'm Curran 👋
 
-[book an intro call now!](https://calendly.com/curran-kelleher/casual)
-
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [X](https://x.com/currankelleher) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran)
 
 - 🔭 I’m currently working on [VizHub](https://vizhub.com/) (dataviz platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (dataviz course and textbook)
