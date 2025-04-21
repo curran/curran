@@ -69,6 +69,8 @@ https://virtualgarden.kendedafund.org/
 
 I collaborated with the amazing team at [Graphicacy](https://graphicacy.com/) to visualize grant disbursements of the [Kendeda Fund](https://kendedafund.org/) using a playful and creative visual metaphor of plants.
 
+[Shortlisted for Information is Beautiful Awards!](https://www.informationisbeautifulawards.com/showcase/7042-from-seeds-to-harvest)
+
 ### Hope Underwater (2023)
 
 https://hopeunderwater.com/
