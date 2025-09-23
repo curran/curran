@@ -61,6 +61,22 @@ like 3D spheres. Clicking on a circle will take you to a
 list of all Wikipedia articles about the topic.
 
 
+### Exaforce Contributions
+
+During my full time role at [Exaforce](https://www.exaforce.com/), I contributed to several novel data visualizations within their Agentic Security Operations Center (SOC) product.
+
+<img width="1430" height="818" alt="image" src="https://github.com/user-attachments/assets/526e079a-dcb1-4e88-a66b-75f5171ffa86" />
+
+The "Permissions Matrix" component is a custom visualization that helps security operations teams make decisions around adjusting user roles in various platforms such as GitHub and Okta to minimize unused roles.
+
+<img width="2364" height="702" alt="image" src="https://github.com/user-attachments/assets/2c845de7-247d-4290-bd57-c36d4ac1578e" />
+
+I contributed the open source [Unovis Treemap Component](https://unovis.dev/gallery/view?collection=Treemap&title=Treemap), which is used in the product to show a variety of things, such as frequency of AWS events based on a hierarchical categorization scheme.
+
+<img width="2862" height="744" alt="image" src="https://github.com/user-attachments/assets/8a739f12-8840-40d8-ba02-26d081ef8c8b" />
+
+I helped create this swimlane visualization that shows how the key security operations metric "Mean Time to Investigate" (MTTI) breaks down.
+
 ### Kendeda Virtual Garden (2023)
 
 https://virtualgarden.kendedafund.org/
