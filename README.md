@@ -2,64 +2,17 @@
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
-- 🔭 I’m currently working on [VizHub](https://vizhub.com/) (dataviz platform), [Constructing Visualizations](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) (dataviz course and textbook)
-- 🌱 I’m currently learning about SaaS business and researching the needs of the data visualization market
-- 👯 I’m looking to collaborate on [VZCode](https://github.com/vizhub-core/vzcode) (VizHub's open source collaborative code editing environment) and client projects
-- 💬 Ask me about dataviz, frontend, JavaScript
-- ⚡ Fun fact: I play guitar, speak German, lived in India for 5 years, I'm into meditation, and I'm a vegan bodybuilder
+ * I help organization adopt Web technologies for interactive data visualization
+ * Do you need bespoke interactive data visualization done right and done fast?
+ * Are you hitting the limits of customization and interactivity with traditional tools?
+ * Is your agency looking to jump-start a client engagement with a solid foundation?
+ * Is your SaaS business looking to move away from charting libraries to a custom solution?
 
-## Interviews & Podcasts
+[Hire VizHub Studio for a 1-week Data Visualization Sprint](https://pro.vizhub.com/studio)
 
- * [March 3032 / Data Visualization Society Fireside Chat about D3 and Data Visualization with Nadieh Bremer, Zan Armstrong, and Curran Kelleher](https://www.youtube.com/watch?v=ZVT3sCWVPXQ)
- * [November 2023 / Quincy Larson Podcast: Data Visualization with Dr. Curran Kelleher](https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/)
+<img width="2397" height="1626" alt="image" src="https://github.com/user-attachments/assets/649fb2bc-07d3-4911-91c7-00059b6f7301" />
 
-## Notable Projects
-
-Unfortunately much of my work is bound by client confidentiality, but here are some public projects I can share!
-
-### Free Courses (2018 - present)
-
- * [Constructing Visualizations (2024)](https://www.youtube.com/watch?v=bZhWCO-bDek&list=PL9yYRbwpkykthTFJl9vYr_C0FCjRIn_7G) The latest version of my course, using D3 and Vanilla JavaScript.
- * [Data Visualization with D3 – Full Course for Beginners (2022)](https://www.youtube.com/watch?v=xkBheRZTkaw) - 19.5 hours of lecture videos released via FreeCodeCamp, based on my course material for the graduate data visualization course I teach at Worcester Polytechnic Institute.
- * [Get it Right in Black & White (2021)](https://vizhub.com/forum/t/get-it-right-in-black-white-index/110) - A livestreamed course covering fundamentals with SVG and D3.
- * [Data Visualization with D3.js - Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E) - 13 hours of course material from my 2018 course. See also [Data Visualization Course 2018](https://www.youtube.com/watch?v=_8V5o2UHG0E)
-
-### VizHub and VZCode (2018 - present)
-
-https://vizhub.com/curran
-
-![image](https://github.com/curran/curran/assets/68416/8bb6f5d1-7f51-46d0-ae5e-cc8d12a924a7)
-
-Here's some of my work in VizHub, a dataviz platform I started in 2018 to help teach courses and continue to maintain and grow as a SaaS business for professionals. The code editor in VizHub is the open source project [VZCode](https://github.com/vizhub-core/vzcode).
-
-Here are some videos about VizHub:
-
- * [Introduction to VizHub](https://www.youtube.com/watch?v=mOe5KL7t6VU&t=2s)
- * [VizHub as Dataviz CMS](https://www.youtube.com/watch?v=mYTjcbfkdvk)
- * [Using Packages in VizHub](https://www.youtube.com/watch?v=eKk2fEmRR_s)
-
-### Open Source Side Projects (2024)
-
-#### [Population Density by World Cities](https://vizhub.com/curran/population-density-by-world-cities)
-
-[![image](https://github.com/user-attachments/assets/6f289408-439b-44f2-8a54-33494812c2f9)](https://vizhub.com/curran/population-density-by-world-cities)
-
-A contour map visualization of population density across the
-world, estimated based on populations of large cities.
-Features panning & zooming, and a label placement algorithm
-that uses an R-Tree spatial index to avoid overlaps.
-
-#### [DBPedia Ontology Viz](https://vizhub.com/curran/dbpedia-ontology-viz)
-
-[![image](https://github.com/user-attachments/assets/585513e2-2928-4692-ad63-11fd15e8d49f)](https://vizhub.com/curran/dbpedia-ontology-viz)
-
-A circle pack visualization of a subset of the DBPedia
-ontology, a hierarchical taxonomy of classes that categorize
-Wikipedia articles. Features panning and zooming, color
-pased on depth, and gradients that make the circles look
-like 3D spheres. Clicking on a circle will take you to a
-list of all Wikipedia articles about the topic.
-
+## Professional Project Portfolio
 
 ### Exaforce Contributions
 
@@ -144,6 +97,49 @@ https://cfinst.github.io/
 ![image](https://github.com/curran/curran/assets/68416/6158d6f9-69ca-47c4-bf5d-c3705904d92f)
 
 The CFI Law Database visualization shows campaign finance law in the US over time. This was my first consulting project ever, and was a great learning opportunity. This project was done in close collaboration with [Seemant Kuleen](https://seemantk.com/).
+
+
+ * [Data Visualization with D3 – Full Course for Beginners (2022)](https://www.youtube.com/watch?v=xkBheRZTkaw) - 19.5 hours of lecture videos released via FreeCodeCamp, based on my course material for the graduate data visualization course I teach at Worcester Polytechnic Institute.
+ * [Get it Right in Black & White (2021)](https://vizhub.com/forum/t/get-it-right-in-black-white-index/110) - A livestreamed course covering fundamentals with SVG and D3.
+ * [Data Visualization with D3.js - Full Tutorial Course 2019](https://www.youtube.com/watch?v=_8V5o2UHG0E) - 13 hours of course material from my 2018 course. See also [Data Visualization Course 2018](https://www.youtube.com/watch?v=_8V5o2UHG0E)
+
+### VizHub and VZCode (2018 - present)
+
+https://vizhub.com/curran
+
+![image](https://github.com/curran/curran/assets/68416/8bb6f5d1-7f51-46d0-ae5e-cc8d12a924a7)
+
+Here's some of my work in VizHub, a dataviz platform I started in 2018 to help teach courses and continue to maintain and grow as a SaaS business for professionals. The code editor in VizHub is the open source project [VZCode](https://github.com/vizhub-core/vzcode).
+
+Here are some videos about VizHub:
+
+ * [Introduction to VizHub](https://www.youtube.com/watch?v=mOe5KL7t6VU&t=2s)
+ * [VizHub as Dataviz CMS](https://www.youtube.com/watch?v=mYTjcbfkdvk)
+ * [Using Packages in VizHub](https://www.youtube.com/watch?v=eKk2fEmRR_s)
+
+### Open Source Side Projects (2024)
+
+#### [Population Density by World Cities](https://vizhub.com/curran/population-density-by-world-cities)
+
+[![image](https://github.com/user-attachments/assets/6f289408-439b-44f2-8a54-33494812c2f9)](https://vizhub.com/curran/population-density-by-world-cities)
+
+A contour map visualization of population density across the
+world, estimated based on populations of large cities.
+Features panning & zooming, and a label placement algorithm
+that uses an R-Tree spatial index to avoid overlaps.
+
+#### [DBPedia Ontology Viz](https://vizhub.com/curran/dbpedia-ontology-viz)
+
+[![image](https://github.com/user-attachments/assets/585513e2-2928-4692-ad63-11fd15e8d49f)](https://vizhub.com/curran/dbpedia-ontology-viz)
+
+A circle pack visualization of a subset of the DBPedia
+ontology, a hierarchical taxonomy of classes that categorize
+Wikipedia articles. Features panning and zooming, color
+pased on depth, and gradients that make the circles look
+like 3D spheres. Clicking on a circle will take you to a
+list of all Wikipedia articles about the topic.
+
+
 
 ## Testimonials
 
