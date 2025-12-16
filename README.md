@@ -1,4 +1,5 @@
 ##  Hi, I'm Curran 👋
+> Web Data Visualization Specialist
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
@@ -10,7 +11,7 @@
 
 [Hire VizHub Studio for a 1-week Data Visualization Sprint](https://pro.vizhub.com/studio)
 
-<img width="2397" height="1626" alt="image" src="https://github.com/user-attachments/assets/649fb2bc-07d3-4911-91c7-00059b6f7301" />
+[<img width="2397" height="1626" alt="image" src="https://github.com/user-attachments/assets/649fb2bc-07d3-4911-91c7-00059b6f7301" />](https://pro.vizhub.com/studio)
 
 ## Professional Project Portfolio
 
