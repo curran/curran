@@ -3,7 +3,7 @@
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
- * I help organization adopt Web technologies for interactive data visualization
+ * I help organizations build bespoke Web-based interactive data visualizations
  * Do you need bespoke interactive data visualization done right and done fast?
  * Are you hitting the limits of customization and interactivity with traditional tools?
  * Is your agency looking to jump-start a client engagement with a solid foundation?
