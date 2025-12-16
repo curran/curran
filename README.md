@@ -15,9 +15,9 @@
 
 ## Professional Project Portfolio
 
-### Exaforce Contributions
+### Exaforce Cybersecurity Dashboard Visualizations
 
-During my full time role at [Exaforce](https://www.exaforce.com/), I contributed to several novel data visualizations within their Agentic Security Operations Center (SOC) enterprise SaaS product.
+During my full time tenure at [Exaforce](https://www.exaforce.com/), I contributed to several novel data visualizations within their Agentic Security Operations Center (SOC) enterprise SaaS product.
 
 <img width="1430" height="818" alt="image" src="https://github.com/user-attachments/assets/526e079a-dcb1-4e88-a66b-75f5171ffa86" />
 
