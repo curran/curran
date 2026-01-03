@@ -9,9 +9,7 @@
  * Is your agency looking to jump-start a client engagement with a solid foundation?
  * Is your SaaS business looking to move away from charting libraries to a custom solution?
 
-[Hire VizHub Studio for a 1-week Data Visualization Sprint](https://pro.vizhub.com/studio)
-
-[<img width="2397" height="1626" alt="image" src="https://github.com/user-attachments/assets/649fb2bc-07d3-4911-91c7-00059b6f7301" />](https://pro.vizhub.com/studio)
+[Hire VizHub Studio for a 1-week Data Visualization Sprint](https://studio.vizhub.com)
 
 ## Professional Project Portfolio
 
