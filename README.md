@@ -1,19 +1,24 @@
+Got it — here’s a version that keeps the **expert positioning** without self-aggrandizing language. It reads calm, credible, and practical, not “salesy” or boastful.
+
+---
+
 ## Hello, I’m Curran 👋
 
-> Data Visualization Consultant · Founder of VizHub Studio
+> Data Visualization Consultant · I run VizHub Studio
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
-I’m a senior data visualization consultant and the founder of **VizHub Studio**, where I help organizations turn complex datasets into **production-ready, interactive web visualizations**.
+I’m a data visualization consultant and I run **VizHub Studio**, where I help teams design and build **custom, web-based interactive data visualizations**.
 
-I work with product teams, research groups, agencies, and SaaS companies who need custom visualization systems that go beyond off-the-shelf charts.
+My work focuses on turning real datasets into visualization systems that are meant to be shipped, maintained, and used, not just explored once or shown in a slide deck.
 
-* Bespoke, code-based interactive data visualizations for the web
-* Fast, fixed-scope delivery for real decisions, stories, and products
-* Ideal if you’ve outgrown BI tools or charting libraries
-* A strong foundation if you’re starting a larger analytics or storytelling initiative
+* Bespoke interactive data visualizations built as production code
+* A good fit when off-the-shelf tools or charting libraries fall short
+* Useful for product teams, research groups, agencies, and SaaS companies
+* Often used to kick-start larger analytics, storytelling, or platform efforts
 
-[Hire VizHub Studio for a 1-week Data Visualization Sprint →](https://studio.vizhub.com)
+[Hire VizHub Studio for a Data Visualization Sprint →](https://studio.vizhub.com)
+
 
 ## Professional Project Portfolio
 
