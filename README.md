@@ -1,10 +1,6 @@
-Got it — here’s a version that keeps the **expert positioning** without self-aggrandizing language. It reads calm, credible, and practical, not “salesy” or boastful.
-
----
-
 ## Hello, I’m Curran 👋
 
-> Data Visualization Consultant · I run VizHub Studio
+> Data Visualization Consultant · [VizHub Studio](https://studio.vizhub.com)
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
