@@ -1,15 +1,19 @@
-##  Hi, I'm Curran 👋
-> Web Data Visualization Specialist
+## Hello, I’m Curran 👋
+
+> Data Visualization Consultant · Founder of VizHub Studio
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
- * I help organizations build bespoke Web-based interactive data visualizations
- * Do you need bespoke interactive data visualization done right and done fast?
- * Are you hitting the limits of customization and interactivity with traditional tools?
- * Is your agency looking to jump-start a client engagement with a solid foundation?
- * Is your SaaS business looking to move away from charting libraries to a custom solution?
+I’m a senior data visualization consultant and the founder of **VizHub Studio**, where I help organizations turn complex datasets into **production-ready, interactive web visualizations**.
 
-[Hire VizHub Studio for a 1-week Data Visualization Sprint](https://studio.vizhub.com)
+I work with product teams, research groups, agencies, and SaaS companies who need custom visualization systems that go beyond off-the-shelf charts.
+
+* Bespoke, code-based interactive data visualizations for the web
+* Fast, fixed-scope delivery for real decisions, stories, and products
+* Ideal if you’ve outgrown BI tools or charting libraries
+* A strong foundation if you’re starting a larger analytics or storytelling initiative
+
+[Hire VizHub Studio for a 1-week Data Visualization Sprint →](https://studio.vizhub.com)
 
 ## Professional Project Portfolio
 
