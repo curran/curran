@@ -1,12 +1,8 @@
 ## Hello, I’m Curran 👋
 
-> Data Visualization Expert & Entrepreneur
+> Creative Technologist
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
-
-I run [VizHub Studio](https://studio.vizhub.com), where I help teams design and build **custom, web-based interactive data visualizations**.
-
-My work focuses on turning real datasets into visualization systems that are meant to be shipped, maintained, and used, not just explored once or shown in a slide deck.
 
 ## Professional Project Portfolio
 
