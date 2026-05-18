@@ -1,6 +1,6 @@
 ## Hello, I’m Curran 👋
 
-> Creative Technologist
+> Creative Technologist focused on Data Visualization and AI
 
 [Resume](https://curran.github.io/portfolio/Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/currankelleher/) | [YouTube](https://www.youtube.com/@currankelleher) | [VizHub](https://vizhub.com/curran) | [X](https://x.com/currankelleher)
 
